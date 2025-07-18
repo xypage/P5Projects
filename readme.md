@@ -1,0 +1,2 @@
+# P5Projects
+I mess around with Processing and p5.js here and there, wanted to make a little compilation of them. Going to add some here and there and maybe make the interface a little less plain at some point. For now, just a way to put a few things in one place to show off/mess with.

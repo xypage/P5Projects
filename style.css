@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.grid-container {
+    margin: 2vw;
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 15vh;
+}
+.grid-header {
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+.box {
+    border: 2px solid black;
+}
